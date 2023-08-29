@@ -14,8 +14,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
 ['593993684821', 'Mafuyu 🥰', true],
-['593980586516', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
-['593968585383'], ['5492266466080'], ['5492266613038'], ['595975740803']]
+['593980586516', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true],
 
 global.mods = [] 
 global.prems = []
