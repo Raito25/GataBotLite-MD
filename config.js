@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['51967789901', 'Mafuyu 🥰', true],
-['51956678994', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true],
+['447441435739', 'Mafuyu 🥰', true],
+['51940183442', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true],
 
 global.mods = [] 
 global.prems = []
